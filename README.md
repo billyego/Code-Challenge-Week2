@@ -42,7 +42,7 @@ Then we log the primeNumbers into the console which gives us the new array of fi
 
 
 ## AUTHOR
-Allan Kiprop.
+Bill Kimtai.
 
 ## LICENSE
 APPROVED?!
